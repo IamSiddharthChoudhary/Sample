@@ -18,4 +18,8 @@ module.exports = {
       },
     ],
   },
+  mocha: {
+    // * the reporter here needs to be JSON
+    reporter: "json",
+  },
 };
