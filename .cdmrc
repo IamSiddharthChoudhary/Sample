@@ -1,3 +1,3 @@
 terminal-one: yarn install
 live-reload-browser: false
-tabs: ["contracts/HelloWorld.sol"]
+tabs: ["contracts/nftMarketPlace.sol", "contracts/helper.sol"]
